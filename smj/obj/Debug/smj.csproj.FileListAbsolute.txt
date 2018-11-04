@@ -1,0 +1,41 @@
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\bin\Debug\smj.exe.config
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\bin\Debug\smj.exe
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\bin\Debug\smj.pdb
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.hal1.resources
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.formdaftar.resources
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.Formlogin.resources
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.Properties.Resources.resources
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.csproj.GenerateResource.Cache
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.exe
+c:\users\starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.pdb
+c:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.Formdaftarpt.resources
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.fhome.resources
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.cvcv.resources
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.Result.resources
+F:\pl\smj\smj\bin\Debug\smj.exe.config
+F:\pl\smj\smj\obj\Debug\smj.exe
+F:\pl\smj\smj\obj\Debug\smj.pdb
+E:\PL agung\smj\smj\bin\Debug\smj.exe.config
+E:\PL agung\smj\smj\obj\Debug\smj.exe
+E:\PL agung\smj\smj\obj\Debug\smj.pdb
+E:\PL agung\smj\smj\bin\Debug\smj.exe
+E:\PL agung\smj\smj\bin\Debug\smj.pdb
+E:\PL agung\smj\smj\obj\Debug\smj.csprojResolveAssemblyReference.cache
+E:\PL agung\smj\smj\obj\Debug\smj.cvcv.resources
+E:\PL agung\smj\smj\obj\Debug\smj.fhome.resources
+E:\PL agung\smj\smj\obj\Debug\smj.hal1.resources
+E:\PL agung\smj\smj\obj\Debug\smj.formdaftar.resources
+E:\PL agung\smj\smj\obj\Debug\smj.Formdaftarpt.resources
+E:\PL agung\smj\smj\obj\Debug\smj.Formlogin.resources
+E:\PL agung\smj\smj\obj\Debug\smj.Formptlogin.resources
+E:\PL agung\smj\smj\obj\Debug\smj.Properties.Resources.resources
+E:\PL agung\smj\smj\obj\Debug\smj.Result.resources
+E:\PL agung\smj\smj\obj\Debug\smj.csproj.GenerateResource.Cache
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.edit.resources
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.ptlogin.resources
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.Deleteuser.resources
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.csprojResolveAssemblyReference.cache
+C:\Users\Starry\documents\visual studio 2015\Projects\smj\smj\obj\Debug\smj.fpthome.resources
+C:\Users\Agsusyl\Documents\Visual Studio 2015\Projects\smj\smj\bin\Debug\smj.exe.config
+C:\Users\Agsusyl\Documents\Visual Studio 2015\Projects\smj\smj\obj\Debug\smj.exe
+C:\Users\Agsusyl\Documents\Visual Studio 2015\Projects\smj\smj\obj\Debug\smj.pdb
